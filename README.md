@@ -50,6 +50,8 @@ This repository intends to host some codes for my studies in Machine Learning (M
 
 * Brownlee, J. 2019. *Machine Learning Algorithms From Scratch*, Machine Learning Mastery.
 
+* Xiao, P. 2022. *Artificial Intelligence Programming with Python: From zero to hero*. Wiley.
+
 
 ## License
 
