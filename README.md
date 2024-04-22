@@ -20,29 +20,30 @@ This repository intends to host some codes for my studies in Machine Learning (M
 ## What you are going to find here
 
 - Data preparation
-    - [ ] Scale data[`scale_data.ipynb`]
-    - [ ] Evaluation methods [`evaluation_methods.ipynb`]
-    - [ ] Evaluation metrics [`evaluation_metrics.ipynb`]
-    - [ ] Baseline models [`baseline_models.ipynb`]
+    - [X] Loading csv `load_csv.ipynb`
+    - [X] Scale data `scaling_data.ipynb`
+    - [ ] Evaluation methods `evaluation_methods.ipynb`
+    - [ ] Evaluation metrics `evaluation_metrics.ipynb`
+    - [ ] Baseline models `baseline_models.ipynb`
 
 - Linear algorithms 
-    - [ ] Harnesses test [`harnesses_test.ipynb`]
-    - [ ] Simple linear regression [`simple_regression.ipynb`]
-    - [ ] Multivariate regression [`multivariate_regression.ipynb`]
-    - [ ] Logistic regression [`logistic_regression.ipynb`]
-    - [ ] Perceptron [`perceptron.ipynb`]
+    - [ ] Harnesses test `harnesses_test.ipynb`
+    - [ ] Simple linear regression `simple_regression.ipynb`
+    - [ ] Multivariate regression `multivariate_regression.ipynb`
+    - [ ] Logistic regression `logistic_regression.ipynb`
+    - [ ] Perceptron `perceptron.ipynb`
 
 - Nonlinear algorithms 
-    - [ ] Classification and Regression trees [`classification_regression.ipynb`]
-    - [ ] Naive Bayes [`naive_bayes.ipynb`]
-    - [ ] k-Nearest neighbors [`k_nearest.ipynb`]
-    - [ ] Learning vector quantization [`vector_quantization.ipynb`]
-    - [ ] Backpropagation [`backpropagation.ipynb`]
+    - [ ] Classification and Regression trees `classification_regression.ipynb`
+    - [ ] Naive Bayes `naive_bayes.ipynb`
+    - [ ] k-Nearest neighbors `k_nearest.ipynb`
+    - [ ] Learning vector quantization `vector_quantization.ipynb`
+    - [ ] Backpropagation `backpropagation.ipynb`
 
 - Ensemble algorithms
-    - [ ] Bootstrap aggregation [`bootstrap_aggregation.ipynb`]
-    - [ ] Random forest [`random_forest.ipynb`]
-    - [ ] Stacked generalization [`stacked_generalization.ipynb`] 
+    - [ ] Bootstrap aggregation `bootstrap_aggregation.ipynb`
+    - [ ] Random forest `random_forest.ipynb`
+    - [ ] Stacked generalization `stacked_generalization.ipynb`
 
 
 
